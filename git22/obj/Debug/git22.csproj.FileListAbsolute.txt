@@ -1,0 +1,10 @@
+C:\Users\godota\source\repos\git22\git22\bin\Debug\git22.exe.config
+C:\Users\godota\source\repos\git22\git22\bin\Debug\git22.exe
+C:\Users\godota\source\repos\git22\git22\bin\Debug\git22.pdb
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.csprojAssemblyReference.cache
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.Form1.resources
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.Properties.Resources.resources
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.csproj.GenerateResource.cache
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.csproj.CoreCompileInputs.cache
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.exe
+C:\Users\godota\source\repos\git22\git22\obj\Debug\git22.pdb
