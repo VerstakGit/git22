@@ -24,5 +24,18 @@ namespace git22
             dataGridView1.Rows.Add(6, "Мертвые души", "14", "250");
             dataGridView1.Rows.Add(7, "Обломов", "12", "720");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string text = textBox1.Text;
+            if (text != "")
+            {
+                MessageBox.Show("Куплен билет № " + text + ".", "Уведомление", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Ошибка, билет не выбран", "Уведомление", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
