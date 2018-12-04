@@ -37,5 +37,10 @@ namespace git22
                 MessageBox.Show("Ошибка, билет не выбран", "Уведомление", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.dataGridView1.Sort(this.dataGridView1.Columns["Column2"], ListSortDirection.Ascending);
+        }
     }
 }
